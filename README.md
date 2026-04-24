@@ -17,7 +17,7 @@ This project predicts whether a person is diabetic or not using a Machine Learni
 - Prediction system for new input
 
 ## Dataset
-PIMA Indians Diabetes Dataset
+Diabetes Dataset
 
 ## How to Run
 1. Install required libraries
